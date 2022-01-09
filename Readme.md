@@ -1,6 +1,8 @@
 # NOTEPAD
 
-[Wizard Notes](https://i.imgur.com/4GEkv2P.gif)
+[Wizard Notes Website](https://wizard-notes-15fd3.web.app/)
+
+[Wizard Notes GIF](https://i.imgur.com/4GEkv2P.gif)
 
 
  ## DESCRIPTION
@@ -12,6 +14,6 @@
         right click on the file and click on open with live server or press (cmd L + cmd O) on mac.
 
 ## AUTHOR(S)
-   This site is built by [Siddhant khariwal](https://github.com/siddhantkhariwal)
+   This site is built by [Siddhant khariwal](https://github.com/siddhantkhariwal).
 
 

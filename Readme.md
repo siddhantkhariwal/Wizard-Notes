@@ -1,11 +1,11 @@
 # NOTEPAD
 
-![](https://i.imgur.com/4GEkv2P.gif)
+[Wizard Notes](https://i.imgur.com/4GEkv2P.gif)
 
 
  ## DESCRIPTION
-            Notepad app made with Javascript, HTML, CSS, Bootstrap with search and delete functionalities.
-            Notes are stored in local storage and deleted from there.
+        Notepad app made with Javascript, HTML, CSS, Bootstrap with search and delete functionalities.
+        Notes are stored in local storage and deleted from there.
 
 ## SETUP INSTRICTIONS
         For running the website you just have to go to the index.html file, 
